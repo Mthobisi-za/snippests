@@ -291,7 +291,7 @@
         ${obj.p_tag}
     </p> <br>
     <div class="btns">
-        <div style="display:flex;">
+        <div style="display:flex;" class="flex_to_grid">
             <div>
                 <button onclick="shareOntwitter()" style="border-radius:30px;border:none;background:#345629;color:white;padding-left:20px;padding-right:20px;font-size:20px;font-family: Roboto Condensed;font-weight:bold;padding-top:5px;padding-bottom:5px">
                 SHARE
@@ -359,6 +359,11 @@
     }
     .btn_hover:hover{
         cursor: pointer;
+    }
+    @media (max-width:400px){
+        .flex_to_grid{
+            flex-direction:column;
+        }
     }
 </style>
 <script>
