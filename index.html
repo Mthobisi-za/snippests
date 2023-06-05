@@ -261,7 +261,7 @@
     <div class="btns">
         <div style="display:flex;">
             <div>
-                <button style="border-radius:30px;border:none;background:#345629;color:white;padding-left:20px;padding-right:20px;font-size:20px;font-family: Roboto Condensed;font-weight:bold;padding-top:5px;padding-bottom:5px">
+                <button onclick="shareOntwitter()" style="border-radius:30px;border:none;background:#345629;color:white;padding-left:20px;padding-right:20px;font-size:20px;font-family: Roboto Condensed;font-weight:bold;padding-top:5px;padding-bottom:5px">
                 SHARE
               </button>
             </div>
@@ -327,6 +327,11 @@
     }
 </style>
 <script>
+    function shareOntwitter(){
+    var url = 'https://twitter.com/intent/tweet?url=https://savanna2022.distellwebstaging.co.za/mzansiverse&via=getboldify&text=As Trevor Noah gears up for his 2023 South African Tour, starting on 31 August 2023, it’s only right that we help you (and him) get familiar with the #SavannaMzansiverse.';
+    TwitterWindow = window.open(url, 'TwitterWindow',width=600,height=300);
+    return false;
+ }
     /*function showPopup() {
         $('.full-row')[0].classList.add('popup');
         $('.container_flex')[0].classList.add('pop_up_container');
