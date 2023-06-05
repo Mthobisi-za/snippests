@@ -1,0 +1,41 @@
+<ul class="glide__slides">
+                                    <li class="glide__slide">
+                                        <img class="img_slide0 img_slide" src="https://savanna2022.distellwebstaging.co.za/wp-content/uploads/2023/06/Picture-1.png" alt="">
+                                    </li>
+                                    <li class="glide__slide">
+                                        <img class="img_slide1 img_slide" src="https://savanna2022.distellwebstaging.co.za/wp-content/uploads/2023/06/Picture-2.png" alt="">
+                                    </li>
+                                    <li class="glide__slide">
+                                        <img class="img_slide2 img_slide" src="https://savanna2022.distellwebstaging.co.za/wp-content/uploads/2023/06/Picture-3.png" alt="">
+                                    </li>
+                                    <li class="glide__slide">
+                                        <img class="img_slide2 img_slide" src="https://savanna2022.distellwebstaging.co.za/wp-content/uploads/2023/06/Picture-4.png" alt="">
+                                    </li>
+                                    <li class="glide__slide">
+                                        <img class="img_slide2 img_slide" src="https://savanna2022.distellwebstaging.co.za/wp-content/uploads/2023/06/Picture-5.png" alt="">
+                                    </li>
+                                    <li class="glide__slide">
+                                        <img class="img_slide2 img_slide" src="https://savanna2022.distellwebstaging.co.za/wp-content/uploads/2023/06/Picture-6.png" alt="">
+                                    </li>
+                                    <li class="glide__slide">
+                                        <img class="img_slide2 img_slide" src="https://savanna2022.distellwebstaging.co.za/wp-content/uploads/2023/06/Picture-7.png" alt="">
+                                    </li>
+                                    <li class="glide__slide">
+                                        <img class="img_slide2 img_slide" src="https://savanna2022.distellwebstaging.co.za/wp-content/uploads/2023/06/Picture-8.png" alt="">
+                                    </li>
+                                    <li class="glide__slide">
+                                        <img class="img_slide2 img_slide" src="https://savanna2022.distellwebstaging.co.za/wp-content/uploads/2023/06/Picture-9.png" alt="">
+                                    </li>
+                                    <li class="glide__slide">
+                                        <img class="img_slide2 img_slide" src="https://savanna2022.distellwebstaging.co.za/wp-content/uploads/2023/06/Picture-10.png" alt="">
+                                    </li>
+                                    <li class="glide__slide">
+                                        <img class="img_slide2 img_slide" src="https://savanna2022.distellwebstaging.co.za/wp-content/uploads/2023/06/Picture-11.png" alt="">
+                                    </li>
+                                    <li class="glide__slide">
+                                        <img class="img_slide2 img_slide" src="https://savanna2022.distellwebstaging.co.za/wp-content/uploads/2023/06/Picture-12.png" alt="">
+                                    </li>
+                                    <li class="glide__slide">
+                                        <img class="img_slide2 img_slide" src="https://savanna2022.distellwebstaging.co.za/wp-content/uploads/2023/06/Picture-13.png" alt="">
+                                    </li>
+                                </ul>
