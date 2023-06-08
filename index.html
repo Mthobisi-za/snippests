@@ -177,16 +177,20 @@
         .container_flex {
             background-image: url('./bg_yellow.png');
             width: 100%;
+            background-repeat: no-repeat;
+            background-size: cover;
         }
         
         .container {
             max-width: 100%;
             margin: auto;
             display: grid;
-            grid-template-columns: 50% 50%;
+            grid-template-columns: 60%;
             background-size: cover;
             background-repeat: no-repeat;
             align-items: center;
+            align-items: center;
+            justify-content: center;
         }
         
         .small {
@@ -219,18 +223,7 @@
             margin: auto;
             display: none;
             width: 100%;
-        }
-        .container {
-                max-width: 100%;
-                margin: auto;
-                display: grid;
-                grid-template-columns: 90%;
-                background-image: url('./bg_yellow.png');
-                background-size: cover;
-                background-repeat: no-repeat;
-                align-items: center;
-                justify-content: center;
-            }
+        } 
         @media (max-width:800px) {
             .container {
                 max-width: 100%;
